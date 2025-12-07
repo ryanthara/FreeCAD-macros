@@ -2,11 +2,11 @@
 
 A repository of peer-reviewed FreeCAD macros.
 
-This repository hosts FreeCAD macros that volunteers have vetted and added for use to the whole community in general available through the [FreeCAD Addon Manager](https://www.freecadweb.org/wiki/AddonManager).
+This repository hosts FreeCAD macros that volunteers have vetted and added for use to the whole community in general available through the [FreeCAD Addon Manager](https://www.freecad.org/wiki/AddonManager).
 
 ## How to submit a macro
 
-- The best way to submit a macro is to post it to the [FreeCAD Python Scripting and Macros subforum](https://forum.freecadweb.org/viewforum.php?f=22) for review.
+- The best way to submit a macro is to post it to the [FreeCAD Python Scripting and Macros subforum](https://forum.freecad.org/viewforum.php?f=22) for review.
   After a green light is given then:
 - Fork this repository
 - Clone your fork locally `git clone https://github.com/your-gh-username/FreeCAD-macros`
@@ -33,7 +33,7 @@ To include a macro into the macro listing of FreeCAD's Addon Manager you have th
 ### Macro description
 
 Please add a complete description how to use the macro near the top of your macro as normal Python comments.
-Ideally write a Wiki page explaining what your macro does and how to use it by following the instructions on the [Wiki](https://wiki.freecadweb.org/Macro_documentation).
+Ideally write a Wiki page explaining what your macro does and how to use it by following the instructions on the [Wiki](https://wiki.freecad.org/Macro_documentation).
 It's a good habit to write a changelog, especially when bringing API breaking changes, from latest to oldest.
 
 ### CamelCase macro name

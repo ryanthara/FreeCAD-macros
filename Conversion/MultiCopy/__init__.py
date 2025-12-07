@@ -39,7 +39,7 @@
 #
 #  Contact Information :-
 #  Email :  carlo.melwyn@outlook.com
-#  FreeCAD UserTalk :  http://www.freecadweb.org/wiki/index.php?title=User:Melwyncarlo
+#  FreeCAD UserTalk :  http://www.freecad.org/wiki/index.php?title=User:Melwyncarlo
 #
 ##########################################################################################
 #####				L I C E N S E					     #####
@@ -78,7 +78,7 @@ Key features include:
 
 For more details, visit:
 https://github.com/melwyncarlo/MultiCopy
-https://wiki.freecadweb.org/Macro_MultiCopy
+https://wiki.freecad.org/Macro_MultiCopy
 
 PACKAGE CONTENTS
 --------------------
@@ -93,7 +93,7 @@ __Version__ = '2.0.0'
 __Date__ = '2021-03-23'
 __Comment__ = 'MultiCopy allows the duplication (copy and paste) of multiple FreeCAD objects that can be labelled sequentially and in a custom manner.'
 __Web__ = 'https://github.com/melwyncarlo/MultiCopy'
-__Wiki__ = 'http://www.freecadweb.org/wiki/index.php?title=Macro_MultiCopy'
+__Wiki__ = 'http://www.freecad.org/wiki/index.php?title=Macro_MultiCopy'
 __Help__ = 'Select one or more FreeCAD objects, then click on the MultiCopy button/macro, and follow the instructions in the dialog box.'
 __Status__ = 'stable'
 __Requires__ = 'Freecad >= v0.17'

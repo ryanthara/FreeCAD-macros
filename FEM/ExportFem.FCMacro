@@ -7,7 +7,7 @@
 __Name__ = "Export Fem"
 __Comment__ = "This macro exports FEM Data"
 __License__ = "LGPL v 2.1"
-__Web__ = "http://forum.freecadweb.org/viewtopic.php?f=18&t=11455"
+__Web__ = "http://forum.freecad.org/viewtopic.php?f=18&t=11455"
 __Wiki__ = ""
 __Icon__  = ""
 __Help__ = "Select an object and start the macro"

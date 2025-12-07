@@ -22,7 +22,7 @@ from __future__ import unicode_literals
 *   Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  *
 *   USA                                                                   *
 ***************************************************************************
-*   http://www.freecadweb.org/wiki/Macro_FCCircularText                   *
+*   http://www.freecad.org/wiki/Macro_FCCircularText                   *
 *           WARNING! All changes in this file will be lost and            *
 *                  may cause malfunction of the program                   *
 ***************************************************************************
@@ -60,13 +60,13 @@ __Date__    = "12/06/2015"
 __License__ = "LGPL-2.0-or-later"
 
 __Comment__ = "This macro creates a text around a cylinder"
-__Web__ = "http://forum.freecadweb.org/viewtopic.php?f=3&t=7384"
-__Wiki__ = "http://www.freecadweb.org/wiki/Macro_FCCircularText"
+__Web__ = "http://forum.freecad.org/viewtopic.php?f=3&t=7384"
+__Wiki__ = "http://www.freecad.org/wiki/Macro_FCCircularText"
 __Icon__  = ""
 __Help__ = "start the macro and follow the instructions"
 __Status__ = "stable"
 __Requires__ = "freecad 0.14.3706"
-__Communication__ = "http://www.freecadweb.org/wiki/User:Mario52"
+__Communication__ = "http://www.freecad.org/wiki/User:Mario52"
 
 
 try:

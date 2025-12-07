@@ -15,6 +15,6 @@ To integrate your macro please make sure the following steps are complete:
 - [ ] Optional, write or update the changelog in the macro, from latest to oldest.
 
 And please remember to update the Wiki with the features added or changed once this PR is merged.
-**Note**: If you don't have wiki access, then please mention your contribution on the [0.19 Changelog Forum Thread](https://forum.freecadweb.org/viewtopic.php?f=10&t=34586).
+**Note**: If you don't have wiki access, then please mention your contribution on the [0.19 Changelog Forum Thread](https://forum.freecad.org/viewtopic.php?f=10&t=34586).
 
 ---

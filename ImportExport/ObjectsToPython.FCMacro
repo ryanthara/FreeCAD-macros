@@ -12,7 +12,7 @@ __Icon__ = 'ObjectsToPython.svg'
 __Help__ = 'ObjectsToPython/README.md'
 __Status__ = 'Alpha'
 __Requires__ = 'FreeCAD >= 0.19'
-__Communication__ = 'https://forum.freecadweb.org/viewtopic.php?f=22&t=34612'
+__Communication__ = 'https://forum.freecad.org/viewtopic.php?f=22&t=34612'
 __Files__ = 'ObjectsToPython/README.md,ObjectsToPython/ObjectsToPython.ui,ObjectsToPython.svg'
 
 import os

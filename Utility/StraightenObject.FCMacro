@@ -28,13 +28,13 @@ __Author__ = 'openBrain'
 __Version__ = '0.8'
 __Date__ = '2019-06-10'
 __License__ = 'LGPL v2'
-__Web__ = 'https://www.freecadweb.org/wiki/Macro_StraightenObject'
-__Wiki__ = 'https://www.freecadweb.org/wiki/Macro_StraightenObject'
+__Web__ = 'https://www.freecad.org/wiki/Macro_StraightenObject'
+__Wiki__ = 'https://www.freecad.org/wiki/Macro_StraightenObject'
 __Icon__ = ''
 __Help__ = 'Select face and/or edge to guide object straightening then run the macro'
 __Status__ = 'Beta'
 __Requires__ = 'FreeCAD >= 0.17'
-__Communication__ = 'https://forum.freecadweb.org/viewtopic.php?f=22&t=35191'
+__Communication__ = 'https://forum.freecad.org/viewtopic.php?f=22&t=35191'
 
 __dbg__ = False #True for debugging
 

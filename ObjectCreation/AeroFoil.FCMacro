@@ -38,7 +38,7 @@
 #
 #  Contact Information :-
 #  Email :  carlo.melwyn@outlook.com
-#  FreeCAD UserTalk :  http://www.freecadweb.org/wiki/index.php?title=User:Melwyncarlo
+#  FreeCAD UserTalk :  http://www.freecad.org/wiki/index.php?title=User:Melwyncarlo
 #
 ##########################################################################################
 #####				L I C E N S E					     #####
@@ -106,7 +106,7 @@ __Version__       = "2.0.3"
 __Date__          = "2021-03-10"
 __Comment__       = "AeroFoil creates airfoil curves and faces using pre-defined models, algebraic functions, and DAT or CSV Files"
 __Web__           = "https://github.com/melwyncarlo/AeroFoil"
-__Wiki__          = "http://www.freecadweb.org/wiki/index.php?title=Macro_AeroFoil"
+__Wiki__          = "http://www.freecad.org/wiki/index.php?title=Macro_AeroFoil"
 __Icon__          = "AeroFoil.svg"
 __Help__          = "Click on the AeroFoil button/macro, and follow the instructions in the subsequent dialog boxes."
 __Status__        = "stable"

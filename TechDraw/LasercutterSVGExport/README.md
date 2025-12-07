@@ -53,7 +53,7 @@ Set method to normal and change the parameter Normal to be perpendicular to the 
 Change the parameter method. Try out different settings.
 
 ## Discussion
-[Dedicated FreeCAD forum discussion thread](https://forum.freecadweb.org/viewtopic.php?f=35&t=31869)
+[Dedicated FreeCAD forum discussion thread](https://forum.freecad.org/viewtopic.php?f=35&t=31869)
 
 ## License
 GNU Lesser General Public License v3.0

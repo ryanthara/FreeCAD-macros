@@ -33,15 +33,15 @@ __Date__    = "16/06/2015"
 __Comment__ = "This macro creates ..."
 
 
-__Web__ = "http://forum.freecadweb.org/viewtopic.php?f=22&t=11328"
-__Wiki__ = "http://www.freecadweb.org"
+__Web__ = "http://forum.freecad.org/viewtopic.php?f=22&t=11328"
+__Wiki__ = "http://www.freecad.org"
 __Icon__  = "/usr/lib/freecad/Mod/plugins/FreeCAD-macros/icons/HyperbolaIcon.png"
 __IconW__  = "C:/Documents and Settings/YourUserName/Application Data/FreeCAD"
 __Help__ = "start the macro and follow the instructions"
 __Status__ = ""
 __Requires__ = ""
 __License__ = "GPL-3.0-or-later"
-__Communication__ = "https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=2030"
+__Communication__ = "https://forum.freecad.org/memberlist.php?mode=viewprofile&u=2030"
 
 
 import FreeCAD, FreeCADGui, Part, PySide

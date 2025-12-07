@@ -12,7 +12,7 @@ __Icon__ = 'LasercutterSVGExport.svg'
 __Help__ = 'LasercutterSVGExport/README.md'
 __Status__ = 'Alpha'
 __Requires__ = 'FreeCAD >= v0.18'
-__Communication__ = 'https://forum.freecadweb.org/viewtopic.php?f=15&t=31796'
+__Communication__ = 'https://forum.freecad.org/viewtopic.php?f=15&t=31796'
 __Files__ = 'LasercutterSVGExport/LasercutterTechdrawExport.py,LasercutterSVGExport/README.md,LasercutterSVGExport/LasercutterSVGExport_screenshot.png,LasercutterSVGExport/lasercuttersvg.ui,LasercutterSVGExport.svg'
 
 # compatible to Python 3

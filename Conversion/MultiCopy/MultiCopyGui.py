@@ -39,7 +39,7 @@
 #
 #  Contact Information :-
 #  Email :  carlo.melwyn@outlook.com
-#  FreeCAD UserTalk :  http://www.freecadweb.org/wiki/index.php?title=User:Melwyncarlo
+#  FreeCAD UserTalk :  http://www.freecad.org/wiki/index.php?title=User:Melwyncarlo
 #
 ##########################################################################################
 #####				L I C E N S E					     #####

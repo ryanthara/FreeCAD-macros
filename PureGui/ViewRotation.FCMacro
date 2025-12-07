@@ -6,7 +6,7 @@
 # approximate shared centre rather than the view centre.
 # The GUI defaults to the top right of the screen, this behaviour can be
 # changed by editing.
-# [http://forum.freecadweb.org/viewtopic.php?f=3&t=1784&hilit=View+Rotation#p12012 View+Rotation]
+# [http://forum.freecad.org/viewtopic.php?f=3&t=1784&hilit=View+Rotation#p12012 View+Rotation]
 
 
 __Name__ = 'View Rotation'
@@ -15,8 +15,8 @@ __Author__ = 'Joe Dowsett'
 __Version__ = '1.0.1'
 __Date__ = '2024-11-22'
 __License__ = 'CC-BY-3.0'
-__Web__ = 'https://www.freecadweb.org/wiki/Macro_View_Rotation'
-__Wiki__ = 'https://www.freecadweb.org/wiki/Macro_View_Rotation'
+__Web__ = 'https://www.freecad.org/wiki/Macro_View_Rotation'
+__Wiki__ = 'https://www.freecad.org/wiki/Macro_View_Rotation'
 __Icon__ = ''
 __Help__ = 'Rotation is according to axes fixed with respect to the user.'
 __Status__ = ''

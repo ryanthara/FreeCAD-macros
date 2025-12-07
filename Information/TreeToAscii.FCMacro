@@ -23,13 +23,13 @@ __Author__ = 'openBrain'
 __Version__ = '0.7.1'
 __Date__ = '2020-03-23'
 __License__ = 'LGPL v2'
-__Web__ = 'https://www.freecadweb.org/wiki/Macro_TreeToAscii'
-__Wiki__ = 'https://www.freecadweb.org/wiki/Macro_TreeToAscii'
+__Web__ = 'https://www.freecad.org/wiki/Macro_TreeToAscii'
+__Wiki__ = 'https://www.freecad.org/wiki/Macro_TreeToAscii'
 __Icon__ = ''
 __Help__ = 'Select object(s) you want to print the tree then run'
 __Status__ = 'Beta'
 __Requires__ = 'FreeCAD >= 0.17'
-__Communication__ = 'https://forum.freecadweb.org/viewtopic.php?f=22&t=43504'
+__Communication__ = 'https://forum.freecad.org/viewtopic.php?f=22&t=43504'
 
 import FreeCAD as app
 import FreeCADGui as gui
